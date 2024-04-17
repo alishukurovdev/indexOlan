@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\LifoFifa\bin\Debug\net6.0\LifoFifa.exe
+C:\Users\hp\source\repos\LifoFifa\bin\Debug\net6.0\LifoFifa.deps.json
+C:\Users\hp\source\repos\LifoFifa\bin\Debug\net6.0\LifoFifa.runtimeconfig.json
+C:\Users\hp\source\repos\LifoFifa\bin\Debug\net6.0\LifoFifa.dll
+C:\Users\hp\source\repos\LifoFifa\bin\Debug\net6.0\LifoFifa.pdb
+C:\Users\hp\source\repos\LifoFifa\obj\Debug\net6.0\LifoFifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\LifoFifa\obj\Debug\net6.0\LifoFifa.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\LifoFifa\obj\Debug\net6.0\LifoFifa.AssemblyInfo.cs
+C:\Users\hp\source\repos\LifoFifa\obj\Debug\net6.0\LifoFifa.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LifoFifa\obj\Debug\net6.0\LifoFifa.dll
+C:\Users\hp\source\repos\LifoFifa\obj\Debug\net6.0\refint\LifoFifa.dll
+C:\Users\hp\source\repos\LifoFifa\obj\Debug\net6.0\LifoFifa.pdb
+C:\Users\hp\source\repos\LifoFifa\obj\Debug\net6.0\LifoFifa.genruntimeconfig.cache
+C:\Users\hp\source\repos\LifoFifa\obj\Debug\net6.0\ref\LifoFifa.dll

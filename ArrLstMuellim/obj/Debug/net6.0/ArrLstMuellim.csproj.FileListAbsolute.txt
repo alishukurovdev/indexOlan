@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\ArrLstMuellim\bin\Debug\net6.0\ArrLstMuellim.exe
+C:\Users\hp\source\repos\ArrLstMuellim\bin\Debug\net6.0\ArrLstMuellim.deps.json
+C:\Users\hp\source\repos\ArrLstMuellim\bin\Debug\net6.0\ArrLstMuellim.runtimeconfig.json
+C:\Users\hp\source\repos\ArrLstMuellim\bin\Debug\net6.0\ArrLstMuellim.dll
+C:\Users\hp\source\repos\ArrLstMuellim\bin\Debug\net6.0\ArrLstMuellim.pdb
+C:\Users\hp\source\repos\ArrLstMuellim\obj\Debug\net6.0\ArrLstMuellim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ArrLstMuellim\obj\Debug\net6.0\ArrLstMuellim.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ArrLstMuellim\obj\Debug\net6.0\ArrLstMuellim.AssemblyInfo.cs
+C:\Users\hp\source\repos\ArrLstMuellim\obj\Debug\net6.0\ArrLstMuellim.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ArrLstMuellim\obj\Debug\net6.0\ArrLstMuellim.dll
+C:\Users\hp\source\repos\ArrLstMuellim\obj\Debug\net6.0\refint\ArrLstMuellim.dll
+C:\Users\hp\source\repos\ArrLstMuellim\obj\Debug\net6.0\ArrLstMuellim.pdb
+C:\Users\hp\source\repos\ArrLstMuellim\obj\Debug\net6.0\ArrLstMuellim.genruntimeconfig.cache
+C:\Users\hp\source\repos\ArrLstMuellim\obj\Debug\net6.0\ref\ArrLstMuellim.dll
